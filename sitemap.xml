@@ -58,10 +58,10 @@
   <priority>0.8</priority>
 </url>
 <url>
-  <loc>https://resolveasia.com/cases.html</loc>
-  <xhtml:link rel="alternate" hreflang="zh-CN" href="https://resolveasia.com/cases.html"/>
-  <xhtml:link rel="alternate" hreflang="en" href="https://resolveasia.com/cases.html?lang=en"/>
-  <changefreq>monthly</changefreq>
+  <loc>https://resolveasia.com/insights.html</loc>
+  <xhtml:link rel="alternate" hreflang="zh-CN" href="https://resolveasia.com/insights.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://resolveasia.com/insights.html?lang=en"/>
+  <changefreq>weekly</changefreq>
   <priority>0.7</priority>
 </url>
 <url>
