@@ -65,6 +65,13 @@
   <priority>0.7</priority>
 </url>
 <url>
+  <loc>https://resolveasia.com/insights/china-outbound-brazil.html</loc>
+  <xhtml:link rel="alternate" hreflang="zh-CN" href="https://resolveasia.com/insights/china-outbound-brazil.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://resolveasia.com/insights/china-outbound-brazil.html?lang=en"/>
+  <changefreq>yearly</changefreq>
+  <priority>0.6</priority>
+</url>
+<url>
   <loc>https://resolveasia.com/trust.html</loc>
   <xhtml:link rel="alternate" hreflang="zh-CN" href="https://resolveasia.com/trust.html"/>
   <xhtml:link rel="alternate" hreflang="en" href="https://resolveasia.com/trust.html?lang=en"/>
